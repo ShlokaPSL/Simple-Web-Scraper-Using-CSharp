@@ -1,0 +1,7 @@
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Simple Web Scraper\bin\Debug\Simple Web Scraper.exe.config
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Simple Web Scraper\bin\Debug\Simple Web Scraper.exe
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Simple Web Scraper\bin\Debug\Simple Web Scraper.pdb
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Simple Web Scraper\obj\Debug\Simple Web Scraper.csproj.AssemblyReference.cache
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Simple Web Scraper\obj\Debug\Simple Web Scraper.csproj.CoreCompileInputs.cache
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Simple Web Scraper\obj\Debug\Simple Web Scraper.exe
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Simple Web Scraper\obj\Debug\Simple Web Scraper.pdb

@@ -1,0 +1,17 @@
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\SimpleWebScraper.Test.Unit.dll
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\SimpleWebScraper.Test.Unit.pdb
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\Simple Web Scraper.exe
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\Simple Web Scraper.pdb
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\Simple Web Scraper.exe.config
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\obj\Debug\SimpleWebScraper.Test.Unit.csproj.AssemblyReference.cache
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\obj\Debug\SimpleWebScraper.Test.Unit.csproj.CoreCompileInputs.cache
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\obj\Debug\SimpleWebScraper.Test.Unit.csproj.CopyComplete
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\obj\Debug\SimpleWebScraper.Test.Unit.dll
+D:\Trainings\O'Reilly\Learn C# By Building Applications\SimpleWebScraper.Test.Unit\obj\Debug\SimpleWebScraper.Test.Unit.pdb
